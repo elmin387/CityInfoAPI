@@ -1,0 +1,9 @@
+2023-08-02 14:35:59.986 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2023-08-02 14:36:00.595 +02:00 [DBG] The property 'PointOfInterestDto.CityId' was created in shadow state because there are no eligible CLR members with a matching name.
+2023-08-02 14:36:00.596 +02:00 [DBG] The property 'PointOfInterestDto.PointOfInterestId' was created in shadow state because there are no eligible CLR members with a matching name.
+2023-08-02 14:36:00.762 +02:00 [INF] Entity Framework Core 6.0.0 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.0' with options: None
+2023-08-02 14:36:00.782 +02:00 [DBG] The property 'PointOfInterestDto.CityId' was created in shadow state because there are no eligible CLR members with a matching name.
+2023-08-02 14:36:00.782 +02:00 [DBG] The property 'PointOfInterestDto.PointOfInterestId' was created in shadow state because there are no eligible CLR members with a matching name.
+2023-08-02 14:36:00.874 +02:00 [DBG] DetectChanges starting for 'ApplicationDbContext'.
+2023-08-02 14:36:00.876 +02:00 [DBG] DetectChanges completed for 'ApplicationDbContext'.
+2023-08-02 14:36:00.968 +02:00 [DBG] 'ApplicationDbContext' disposed.
